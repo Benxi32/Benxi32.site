@@ -23,7 +23,7 @@
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 35px;
-  color: #ffffffa1;
+  color: #be0fa1a1;
   display: block;
   line-height: 3em;
 }
@@ -47,7 +47,7 @@ footer{
     justify-content: center;
     padding: 25px;
     background-color: #111;
-    color: #fff;
+    color: #ac2828;
    font-size: 25px;
 }
  /* Подпись под изображением */
